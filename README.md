@@ -38,6 +38,7 @@ appを実行しようとすると(たまに？)下記エラーダイアログが
 Failed to complete Gradle execution
 </pre>
 そこでAndroid Studio自体のアップグレードも行ってみたところ、エラーは発生しなくなりました。
+ベータ版など、安定版以外のバージョンは[こちら](http://tools.android.com/download/studio)からダウンロードできます。
 
 
 [officialサイト]: https://projectlombok.org/setup/android.html
